@@ -9,7 +9,7 @@ wget --no-check-certificate -qO InstallNET.sh 'https://raw.githubusercontent.com
 > -port "<端口号>" = 默认端口号：22 或设置自己要的端口号 (1~65535)
 > -debian 11 = Debian 版本号：11 可选版本范围 7-after
 > -hostname "cbmim" = 主机名：cbmim 或设置自己的主机名
-> > -mirror "<镜像源>" = 可替换镜像源，官方镜像源列表：https://www.debian.org/mirror/list.html
+> -mirror "<镜像源>" = 可替换镜像源，官方镜像源列表：https://www.debian.org/mirror/list.html
 ### 默认参数
 #### Debian 8 64位：
 ```sh
